@@ -1,6 +1,6 @@
 # Hackfeminismos y programación al vuelo en Latinoamérica
 
-!(img)[https://github.com/MarianneTeixido/hackfeminismos/tree/master/img/screen27.png]
+![img](https://github.com/MarianneTeixido/hackfeminismos/tree/master/img/screen27.png)
 
 ## ¿Qué es el live coding ?
 
