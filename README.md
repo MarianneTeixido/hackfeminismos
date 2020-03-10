@@ -14,3 +14,18 @@ El live coding se desarrolla en gran medida dentro del movimiento de cultura lib
 [TOPLAP Manifiesto](https://toplap.org/wiki/Main_Page)
 
 [Comunidad](https://toplap.org/)
+
+
+##Uso crítico de la tecnología 
+
+A partir de mi práctica musical con código fuente busco problematizar del uso de las tecnologías digitales, teniendo en cuenta condiciones contextuales, históricas, culturales y sociales en la intersección entre feminismos, hacktivismos y prácticas sonoras desde el contexto Latinoamericano. La diferencia entre creadoras de tecnlogía y usuarias está condicionada por las posición greográfica además las condiciones económicas y sociales. 
+
+[Ciberceguridad](https://insubordinadas.com/) y [netart feminista ](https://github.com/stepaola/La-robota-feminista/blob/master/Taller.md)  
+
+En la programación busco profundizar en los postulados tanto [cyborgs](https://proyectoidis.org/manifiesto-cyborg/) como [xenofeminista](http://www.laboriacuboniks.net/#firstPage) y [hackfeminista](https://hysteria.mx/manifiesto-por-algoritmias-hackfeministas/)  
+
+
+
+
+
+
