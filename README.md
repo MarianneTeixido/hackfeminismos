@@ -11,6 +11,6 @@ El live coding se desarrolla en gran medida dentro del movimiento de cultura lib
 
 ## Terrestrial Organisation for the Permanence of Live Artistic Programming
 
-![TOPLAP Manifiesto](https://toplap.org/wiki/Main_Page )
+[TOPLAP Manifiesto](https://toplap.org/wiki/Main_Page)
 
-![Comunidad](https://toplap.org/ )
+[Comunidad](https://toplap.org/)
