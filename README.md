@@ -1,8 +1,8 @@
-# hackfeminismos
+# Hackfeminismos y pro
 
-()[img/screen27.png]
+!(img)[/img/screen27.png]
 
-##
+## ¿Qué ?
 
 `SinOsc.ar` 
 
